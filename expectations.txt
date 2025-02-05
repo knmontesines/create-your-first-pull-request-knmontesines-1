@@ -1,3 +1,6 @@
 Expectations:
 1. Understand the lessons and exercises easily.
 2. Have a fun learning in this course.
+
+I'm looking forward to dwelve more on the best practices in Web Programming, especially in setting up projects when working on teams. 
+I'm also excited to learn how to create visually appealing yet simple to navigate UI design for web applications. - myko
